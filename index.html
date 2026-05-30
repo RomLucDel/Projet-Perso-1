@@ -10,6 +10,9 @@
 <script src="script.js" defer></script>
 </head>
 <body>
+ <div class="demo-banner">
+    ⚠️ Site de démonstration — projet étudiant. Aucune commande ni paiement réel.
+ </div>
 
 <!-- ══════════════════════════════════════════
      HEADER
@@ -18,8 +21,8 @@
   <a href="#" class="logo">
     <div class="logo-icon">🪵</div>
     <div class="logo-text">
-      <strong>PaletteCraft25</strong>
-      <span>Besançon · Doubs · Éco-local</span>
+      <strong>PaletteCraft25.Demo</strong>
+      <span>Besançon · Doubs · Éco-local</span>     
     </div>
   </a>
 
@@ -331,7 +334,7 @@
       <a href="#" class="logo">
         <div class="logo-icon">🪵</div>
         <div class="logo-text">
-          <strong>PaletteCraft25</strong>
+          <strong>PaletteCraft25.Demo</strong>
           <span>Besançon · Doubs</span>
         </div>
       </a>
@@ -369,11 +372,11 @@
     </div>
   </div>
   <div class="footer-bottom">
-    <p>© 2025 PaletteCraft25 — Artisan à Besançon · Mentions légales · CGV · RGPD</p>
+    <p>© 2025 PaletteCraft25.Demo — Artisan à Besançon · Mentions légales · CGV · RGPD</p>
     <div class="eco-badges">
       <span class="eco-badge">♻️ Éco-responsable</span>
       <span class="eco-badge">🌿 Local Doubs 25</span>
-      <span class="eco-badge">🔒 Paiement sécurisé</span>
+      <span class="eco-badge">🔒 Paiement simulé (demo)</span>
     </div>
   </div>
 </footer>
@@ -400,7 +403,7 @@
     <button class="checkout-btn" onclick="openCheckout()">
       <span class="paypal-logo">💳</span> Payer par PayPal
     </button>
-    <p class="secure-note">🔒 Paiement 100% sécurisé via PayPal</p>
+    <p class="secure-note">🔒 (Simulation) Paiement 100% sécurisé via PayPal</p>
   </div>
 </div>
 
@@ -434,7 +437,7 @@
       <div class="paypal-btn-container">
         <div id="paypal-button-container"></div>
         <button class="paypal-fallback" onclick="simulatePayment()">
-          💳 Payer avec PayPal — <span id="checkoutTotalDisplay">0,00 €</span>
+          💳 (Simulation) Payer avec PayPal — <span id="checkoutTotalDisplay">0,00 €</span>
         </button>
         <div class="payment-icons">
           <span class="payment-icon">💳 Visa</span>
@@ -442,7 +445,7 @@
           <span class="payment-icon">🅿️ PayPal</span>
           <span class="payment-icon">🔒 SSL</span>
         </div>
-        <p class="secure-note" style="margin-top:.5rem">Vos données bancaires ne transitent jamais sur nos serveurs</p>
+        <p class="secure-note" style="margin-top:.5rem">Démonstration — aucune donnée bancaire réelle n'est traitée.</p>
       </div>
     </div>
   </div>
