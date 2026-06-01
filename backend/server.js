@@ -1,3 +1,4 @@
+require("dotenv").config();
 const express = require("express");
 const mongoose = require("mongoose");
 const bcrypt = require("bcryptjs");
@@ -11,7 +12,7 @@ app.use(cors());
 // =====================
 // CONNEXION MONGO
 // =====================
-mongoose.connect("mongodb://127.0.0.1:27017/palettecraft")
+mongoose.connect(process.env.MONGO_URI)
   .then(() => console.log("MongoDB connecté"))
   .catch(err => console.log("Erreur MongoDB :", err));
 
@@ -70,7 +71,7 @@ app.post("/login", async (req, res) => {
 
     const token = jwt.sign(
       { userId: user._id },
-      "SECRET_KEY_PALETTECRAFT",
+      process.env.JWT_SECRET,
       { expiresIn: "7d" }
     );
 
