@@ -25,7 +25,6 @@ p1: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="positi
 <rect x="224" y="47" width="14" height="2" fill="#0f0704"/>
 <rect x="63" y="85" width="28" height="2" fill="#0f0704"/>
 <rect x="144" y="85" width="28" height="2" fill="#0f0704"/>
-<text x="150" y="192" text-anchor="middle" fill="rgba(200,135,58,0.55)" font-family="monospace" font-size="9" letter-spacing="2">PALETTE EUR 120×80 · BRUTE DE SCIAGE</text>
 </svg>`,
 
 p2: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="position:absolute;inset:0;width:100%;height:100%">
@@ -45,7 +44,6 @@ p2: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="positi
 <rect x="34" y="68" width="222" height="3" fill="rgba(255,255,255,0.06)"/>
 <rect x="34" y="87" width="222" height="3" fill="rgba(255,255,255,0.06)"/>
 <rect x="63" y="47" width="28" height="2" fill="#150d04"/><rect x="144" y="47" width="28" height="2" fill="#150d04"/><rect x="63" y="85" width="28" height="2" fill="#150d04"/><rect x="144" y="85" width="28" height="2" fill="#150d04"/>
-<text x="150" y="192" text-anchor="middle" fill="rgba(200,135,58,0.6)" font-family="monospace" font-size="9" letter-spacing="2">PALETTE EUR · PONCÉE S120</text>
 </svg>`,
 
 p3: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="position:absolute;inset:0;width:100%;height:100%">
@@ -64,7 +62,6 @@ p3: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="positi
 <rect x="34" y="30" width="222" height="6" fill="rgba(255,230,120,0.12)" rx="1"/>
 <rect x="34" y="49" width="222" height="4" fill="rgba(255,230,120,0.08)"/>
 <rect x="34" y="68" width="222" height="4" fill="rgba(255,230,120,0.08)"/>
-<text x="150" y="192" text-anchor="middle" fill="rgba(232,201,80,0.7)" font-family="monospace" font-size="9" letter-spacing="2">PALETTE TEINTÉE · CHÊNE CLAIR · HUILÉE</text>
 </svg>`,
 
 p4: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="position:absolute;inset:0;width:100%;height:100%">
@@ -81,7 +78,6 @@ p4: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="positi
 <!-- nails/screws -->
 <circle cx="85" cy="75" r="3" fill="#c8873a" opacity=".8"/><circle cx="170" cy="92" r="3" fill="#c8873a" opacity=".8"/><circle cx="120" cy="58" r="2.5" fill="#c8873a" opacity=".7"/>
 <circle cx="85" cy="75" r="1" fill="#fff" opacity=".4"/><circle cx="170" cy="92" r="1" fill="#fff" opacity=".4"/>
-<text x="150" y="192" text-anchor="middle" fill="rgba(200,135,58,0.55)" font-family="monospace" font-size="9" letter-spacing="2">KIT DÉMONTÉE · ~20 PLANCHES · DÉPOINTÉES</text>
 </svg>`,
 
 p5: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="position:absolute;inset:0;width:100%;height:100%">
@@ -101,7 +97,6 @@ p5: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="positi
 <line x1="175" y1="28" x2="175" y2="162" stroke="rgba(232,201,138,0.2)" stroke-width="1" stroke-dasharray="3 4"/>
 <!-- saw dust -->
 <circle cx="180" cy="90" r="2" fill="rgba(200,135,58,0.4)"/><circle cx="183" cy="100" r="1.5" fill="rgba(200,135,58,0.3)"/><circle cx="178" cy="110" r="1" fill="rgba(200,135,58,0.3)"/>
-<text x="150" y="192" text-anchor="middle" fill="rgba(200,135,58,0.55)" font-family="monospace" font-size="9" letter-spacing="2">DEMI-PALETTE EUR · 40×80 · SECTIONNÉE</text>
 </svg>`,
 
 p6: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="position:absolute;inset:0;width:100%;height:100%">
@@ -125,10 +120,6 @@ p6: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="positi
 <line x1="37" y1="61" x2="255" y2="61" stroke="#0f0704" stroke-width="1"/>
 <rect x="37" y="38" width="218" height="5" fill="rgba(255,255,255,0.08)" rx="1"/>
 <ellipse cx="100" cy="48" rx="6" ry="4" fill="rgba(0,0,0,0.2)"/>
-<!-- count badge -->
-<rect x="244" y="15" width="40" height="22" rx="11" fill="#c8873a"/>
-<text x="264" y="30" text-anchor="middle" fill="#fff" font-family="monospace" font-size="11" font-weight="bold">×5</text>
-<text x="150" y="192" text-anchor="middle" fill="rgba(200,135,58,0.55)" font-family="monospace" font-size="9" letter-spacing="2">PACK 5 PALETTES EUR · BRUTES ASSORTIES</text>
 </svg>`,
 
 p7: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="position:absolute;inset:0;width:100%;height:100%">
@@ -157,7 +148,6 @@ p7: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="positi
 <line x1="22" y1="62" x2="22" y2="68" stroke="rgba(200,135,58,0.4)" stroke-width=".8"/>
 <line x1="280" y1="62" x2="280" y2="68" stroke="rgba(200,135,58,0.4)" stroke-width=".8"/>
 <text x="151" y="62" text-anchor="middle" fill="rgba(200,135,58,0.6)" font-family="monospace" font-size="8">120 cm</text>
-<text x="150" y="192" text-anchor="middle" fill="rgba(200,135,58,0.55)" font-family="monospace" font-size="9" letter-spacing="2">PLANCHE BRUTE · 120×14×2.2 CM</text>
 </svg>`,
 
 p8: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="position:absolute;inset:0;width:100%;height:100%">
@@ -182,7 +172,6 @@ p8: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="positi
 <line x1="22" y1="62" x2="22" y2="68" stroke="rgba(200,135,58,0.4)" stroke-width=".8"/>
 <line x1="280" y1="62" x2="280" y2="68" stroke="rgba(200,135,58,0.4)" stroke-width=".8"/>
 <text x="151" y="62" text-anchor="middle" fill="rgba(200,135,58,0.6)" font-family="monospace" font-size="8">120 cm</text>
-<text x="150" y="192" text-anchor="middle" fill="rgba(200,135,58,0.6)" font-family="monospace" font-size="9" letter-spacing="2">PLANCHE RABOTÉE · 120×14 · PRÊTE À L'EMPLOI</text>
 </svg>`,
 
 p9: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="position:absolute;inset:0;width:100%;height:100%">
@@ -209,7 +198,6 @@ p9: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="positi
 <rect x="170" y="152" width="18" height="18" rx="3" fill="#6a3a2a"/><!-- terracotta -->
 <rect x="192" y="152" width="18" height="18" rx="3" fill="#b8b0a0"/><!-- lin -->
 <rect x="214" y="152" width="18" height="18" rx="3" fill="#1a3a5a"/><!-- bleu nuit -->
-<text x="150" y="192" text-anchor="middle" fill="rgba(200,135,58,0.55)" font-family="monospace" font-size="9" letter-spacing="2">PLANCHE PEINTE · COULEUR AU CHOIX · MAT</text>
 </svg>`,
 
 p10: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="position:absolute;inset:0;width:100%;height:100%">
@@ -239,9 +227,6 @@ p10: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="posit
 <rect x="78" y="36" width="6" height="132" rx="2" fill="rgba(255,255,255,0.1)"/>
 <rect x="216" y="36" width="6" height="132" rx="2" fill="#c8873a" opacity=".8"/>
 <!-- count -->
-<rect x="248" y="18" width="38" height="22" rx="11" fill="#c8873a"/>
-<text x="267" y="33" text-anchor="middle" fill="#fff" font-family="monospace" font-size="11" font-weight="bold">×10</text>
-<text x="150" y="192" text-anchor="middle" fill="rgba(200,135,58,0.55)" font-family="monospace" font-size="9" letter-spacing="2">LOT 10 PLANCHES BRUTES · 120 CM · QUALITÉ A</text>
 </svg>`,
 
 p11: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="position:absolute;inset:0;width:100%;height:100%">
@@ -268,9 +253,6 @@ p11: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="posit
 <rect x="78" y="36" width="7" height="132" rx="3" fill="rgba(255,255,255,0.2)"/>
 <rect x="216" y="36" width="7" height="132" rx="3" fill="#e8c98a" opacity=".9"/>
 <rect x="216" y="36" width="7" height="132" rx="3" fill="rgba(255,255,255,0.2)"/>
-<rect x="248" y="18" width="38" height="22" rx="11" fill="#c8873a"/>
-<text x="267" y="33" text-anchor="middle" fill="#fff" font-family="monospace" font-size="11" font-weight="bold">×10</text>
-<text x="150" y="192" text-anchor="middle" fill="rgba(200,135,58,0.6)" font-family="monospace" font-size="9" letter-spacing="2">LOT 10 PLANCHES RABOTÉES · S120 · CALIBRÉES</text>
 </svg>`,
 
 p12: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="position:absolute;inset:0;width:100%;height:100%">
@@ -310,8 +292,6 @@ p12: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="posit
 <line x1="182" y1="97" x2="246" y2="97" stroke="#c8873a" stroke-width=".8" opacity=".6"/>
 </g>
 <!-- laser icon top right -->
-<text x="266" y="22" fill="rgba(200,135,58,0.7)" font-family="monospace" font-size="9">⚡ LASER CO₂</text>
-<text x="150" y="192" text-anchor="middle" fill="rgba(200,135,58,0.6)" font-family="monospace" font-size="9" letter-spacing="2">GRAVURE LASER · MOTIF AU CHOIX · PERSONNALISÉ</text>
 </svg>`,
 
 p13: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="position:absolute;inset:0;width:100%;height:100%">
@@ -346,7 +326,6 @@ p13: `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" style="posit
 <rect x="105" y="22" width="90" height="30" rx="4" fill="none" stroke="#c8873a" stroke-width="1.5" stroke-dasharray="4 2"/>
 <text x="150" y="34" text-anchor="middle" fill="#c8873a" font-family="monospace" font-size="9" font-weight="bold" letter-spacing="3">SUR DEVIS</text>
 <text x="150" y="46" text-anchor="middle" fill="rgba(200,135,58,0.6)" font-family="monospace" font-size="7">RÉPONSE SOUS 24H</text>
-<text x="150" y="192" text-anchor="middle" fill="rgba(200,135,58,0.55)" font-family="monospace" font-size="9" letter-spacing="2">LOT PERSONNALISÉ · CÔTES LIBRES · FINITION LIBRE</text>
 </svg>`,
 };
 
